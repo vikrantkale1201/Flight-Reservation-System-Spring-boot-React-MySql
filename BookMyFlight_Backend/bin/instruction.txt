@@ -1,0 +1,23 @@
+1. Create database book_my_flight;
+2. pull the repository from github (once you pull please update maven project)
+3. Demo of Product is created please run that and check crud operations are
+working in your system or not (all the instructions are given in controller of product)
+4. if you make changes push to repository
+
+NOTE:- Please read the all instructions carefully
+
+Git Commands:-
+1. git clone https://github.com/rocking-reacts/BookMyFlight.git [Do it once]
+
+Everytime
+1. git pull origin master/your_branch_name
+2. git status
+3. git commit -m "Commit Message"
+4. git push origin Your_Branch_Name
+
+NOTE:- when you push to repository make sure you pulled the master branch and then try push changes
+
+Commnads for uptodate with master branch after merge
+git checkout your_branch
+git merge origin/master
+git push origin your_branch

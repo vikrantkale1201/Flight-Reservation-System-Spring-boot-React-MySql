@@ -33,9 +33,6 @@ Images are for personal use only and a big credit to Flaticons
 5. User enter payment details for ticket generation.
 6. User can either print the ticket and mail the ticket.
 
-## Preview
-<img src="src/assets/images/home.jpg" width="700px" height="450px"></img>
-
 ## How To Install.
 
 1. Clone this project

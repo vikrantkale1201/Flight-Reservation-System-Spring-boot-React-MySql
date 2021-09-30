@@ -3,10 +3,8 @@ Technologies : Spring Boot, rest API, JPA, React JS, MySQL
 
 E-DAC Project (may 2021, IACSD PUNE)
 
-
-# BookMyFlight
-User interface developed for BookMyFlight using React.js Library
-BookMyFlight is an Flight reservation/booking system.
+User interface developed for Flight Reservation System using React.js Library
+Flight Reservation System is an Flight reservation/booking system.
 The backend API is built in Spring boot
 
 # Features
